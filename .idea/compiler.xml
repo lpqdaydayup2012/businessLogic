@@ -9,8 +9,5 @@
         <module name="businessLogic" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="businessLogic" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>
